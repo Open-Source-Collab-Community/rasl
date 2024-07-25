@@ -1,0 +1,42 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Song Title 1",
+      "artist": {
+        "id": "101",
+        "name": "Artist Name 1"
+      },
+      "album": {
+        "id": "201",
+        "title": "Album Title 1",
+        "release_date": "2023-01-01",
+        "cover_url": "https://example.com/cover1.jpg"
+      },
+      "duration": 240,
+      "genre": "Pop",
+      "play_count": 100000,
+      "like_count": 5000,
+      "url": "https://example.com/song1.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Song Title 2",
+      "artist": {
+        "id": "102",
+        "name": "Artist Name 2"
+      },
+      "album": {
+        "id": "244",
+        "title": "Album Title 2",
+        "release_date": "2023-02-01",
+        "cover_url": "https://example.com/cover2.jpg"
+      },
+      "duration": 180,
+      "genre": "Rock",
+      "play_count": 150000,
+      "like_count": 8000,
+      "url": "https://example.com/song2.mp3"
+    }
+  ]
+}
