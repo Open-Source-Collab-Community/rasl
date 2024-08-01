@@ -1,7 +1,7 @@
-# Audio Streaming library
+# Realtime Audio Streaming library
 
 ## Introduction
-## A rasl is Open Source library which can integrate audio streaming functionality to any web application.
+ A rasl is Open Source library which can integrate audio streaming functionality to any web application.
 
 ### Todo
 1. It should be implemented using web sockets(instead of Socket.io)
